@@ -1,6 +1,9 @@
 ### Hi 👋
 
-I'm Parham Baghestani a Product Designer.
+I'm Parham Baghestani a Product Designer & Code Lover!
+🔭 I’m currently working on Thumb Zone
+🌱 I’m currently learning SwiftUI
+📫 How to reach me: parhamb.com
 
 <!--
 Here are some ideas to get you started:
